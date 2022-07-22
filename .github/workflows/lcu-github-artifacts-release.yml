@@ -15,7 +15,7 @@ env:
   NPMRegistry: https://registry.npmjs.org/
   InstallCommand: npm i
   BuildCommand: npm run build
-  Output: ./
+  Output: https://github.com/waheedareeba/tripify-travel-guide/tree/master/.github/workflows
 
 jobs:
   build:
