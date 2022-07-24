@@ -292,8 +292,8 @@
 
    <div class="content">
       <h3>why choose us?</h3>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure numquam nulla iusto corporis dolor commodi libero, vitae obcaecati optio rerum ab culpa nesciunt, earum mollitia quasi ipsam non. Aliquid, iure.</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid rerum, delectus voluptate aliquam quaerat iusto repellendus error nulla ab atque.</p>
+      <p>We provide the basic functionalities of a traditional travel website along with the ability to report any problem faced during the travel. </p>
+      <p>Our main goal is to provide a seamless travel experience to our guests and ensure a safe and secure journey!</p>
       <div class="icons-container">
          <div class="icons">
             <i class="fas fa-map"></i>
