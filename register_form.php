@@ -22,7 +22,7 @@ if ($num > 0){
    $reg = "insert into user_form(name, email, password) values ('$name', '$email','$password')";
    mysqli_query($connection, $reg);
    echo 'registration successful';
-   header('location:home.php');
+
 }
 
 ?> 
