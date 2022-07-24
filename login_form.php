@@ -17,7 +17,7 @@ if ($num > 0){
     header('location:welcome.php'); 
 
 }else{
-    header('location:home.php'); 
+   echo 'Account not registered, Register now to login and book exciting packages! ' ;
 }
 
 ?> 
